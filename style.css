@@ -1,0 +1,40 @@
+
+body {
+    /* background:black; */
+    /* display:inline-block */
+    background:#2f3640;
+}
+
+.container {
+    
+    /* text-align:center; */
+    /* margin-top:30px; */
+}
+.row h2{
+    font-size:95px;
+    font-weight:700;
+    color:white;
+}
+
+.row{
+    margin-top:70px;
+    
+}
+
+.header {
+    background-image: url('./Images/yessir.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:30%;
+    height:250px;
+    margin-left:500px; 
+    border-radius:10px 10px 10px 10px;
+    
+    
+}
+.header h2{
+    color: #0fda19;
+    font-size:100px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style:initial;
+}
